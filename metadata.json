@@ -1,0 +1,6 @@
+{
+  "name": "Barbearia O Martins",
+  "description": "Barbearia no Centro de Fortaleza. Corte masculino, barba e produtos para cabelo. Agendamento e pedidos via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
